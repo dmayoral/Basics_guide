@@ -44,3 +44,15 @@ rm -r ardupilot/
 ```
   scp -r ardupilot/ root@192.168.7.2:/root
  ```
+
+####NOTA
+
+Actualmente también estamos probando el código de: https://github.com/tridge/ardupilot/tree/BBB-WIP
+
+Haciendo:
+```
+git clone https://github.com/tridge/ardupilot
+cd ardupilot
+git checkout BBB-WIP
+```
+Nos descargamos el código, que se puede pasar a la SD con `scp`como se indica arriba.
