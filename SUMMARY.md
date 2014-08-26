@@ -5,4 +5,5 @@
 * [Copiar una imagen a SDcard](copiar_una_imagen_a_sdcard/README.md)
 * [Descargar/compilar/actualizar ardupilot](descargarcompilaractualizar_ardupilot/README.md)
 * [BusTest: Testeo de sensores](bustest_testeo_de_sensores/README.md)
+* [Actualizar el Kernell](actualizar_el_kernell/README.md)
 
