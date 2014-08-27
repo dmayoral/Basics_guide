@@ -10,4 +10,5 @@
 * [Testeo de Motores](testeo_de_motores/README.md)
 * [Logs de vuelo](logs_de_vuelo/README.md)
 * [Problemas servo: Ajustes](problemas_servo_ajustes/README.md)
+* [GPS test](gps_test/README.md)
 
