@@ -24,3 +24,7 @@ Hacemos :
 source ~/.bashrc
 ```
 para cargar de nuevo.Así, la próxima vez que iniciemos no será necesario este comando, y podremos correr directamente ardupilot con la opción `-B...`indicada arriba.
+
+Para comprobar que funciona hacemos:
+`status`o `watch gps_raw_int`, con este último deberían ajustarse los valores.
+También podemos hacer `screen /dev/ttyO5 57600`
