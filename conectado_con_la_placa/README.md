@@ -1,6 +1,6 @@
 # Conectado con la placa
 
-La forma más sencilla de conectar (en un terminal) con la placa es la siguiente:
+La forma más sencilla de conectar (en un terminal) con la placa, en Linux, es la siguiente:
 
 ```
 ssh root@192.168.7.2
