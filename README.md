@@ -6,7 +6,7 @@
 
 ##Book
 
-This book is a basic tutorial when using [Erle board](http://erlerobot.com/). **Erle** is **a small-size Linux computer for making drones.**
+This book is a basic tutorial when using [Erle board](http://erlerobot.com/), we will use LINUX along this tutorial. **Erle** is **a small-size Linux computer for making drones.**
 
 
 
